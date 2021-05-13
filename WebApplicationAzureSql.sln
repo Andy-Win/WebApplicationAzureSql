@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31312.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationAzureSql", "WebApplicationAzureSql\WebApplicationAzureSql.csproj", "{B6647B9F-0D3D-4EDB-9E9A-8649BE2C980E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6647B9F-0D3D-4EDB-9E9A-8649BE2C980E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6647B9F-0D3D-4EDB-9E9A-8649BE2C980E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6647B9F-0D3D-4EDB-9E9A-8649BE2C980E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6647B9F-0D3D-4EDB-9E9A-8649BE2C980E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3415E54-25C0-491C-B857-237BFAC2A4D1}
+	EndGlobalSection
+EndGlobal
